@@ -1,6 +1,6 @@
 {
-  "name": "@ankit/about-me",
-  "version": "1.0.0",
+  "name": "ankit-about-me",
+  "version": "1.0.1",
   "description": "This will explain about my info",
   "main": "index.js",
   "scripts": {
