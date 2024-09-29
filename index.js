@@ -12,4 +12,4 @@ console.log('\x1B[32mGitHub        >>>     www.github.com/ankitkumarsharma ');
 console.log('\x1B[32mNPM           >>>     www.npmjs.com/~ankit_k_sharma ');
 console.log('\x1B[37m=========================================================================');
 
-// For run on local, you have to use >> npm i -g and then npx @ankit/about-me  
+// For run on local, you have to use >> npm i -g and then run 'npx @ankit-sharma/about-me'
